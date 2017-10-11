@@ -10,7 +10,8 @@
 <div align="center">
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/acoshift/redirecthttps?style=flat-square)](https://goreportcard.com/report/github.com/acoshift/redirecthttps)
-[![build status](https://img.shields.io/travis/acoshift/redirecthttps/master.svg?style=flat-square)](https://travis-ci.org/kataras/iris)
+[![Build Status](https://travis-ci.org/acoshift/redirecthttps.svg?branch=master)](https://travis-ci.org/acoshift/redirecthttps)
+[![Coverage Status](https://coveralls.io/repos/github/acoshift/redirecthttps/badge.svg?branch=master)](https://coveralls.io/github/acoshift/redirecthttps?branch=master)
 [![github issues](https://img.shields.io/github/issues/acoshift/redirecthttps.svg?style=flat-square)](https://github.com/acoshift/redirecthttps/issues?q=is%3Aopen+is%3Aissue)
 [![release](https://img.shields.io/github/release/acoshift/redirecthttps.svg?style=flat-square)](https://github.com/acoshift/redirecthttps/releases)
 [![chat](https://img.shields.io/badge/community-%20chat-00BCD4.svg?style=flat-square)](https://gitter.im/acoshift)
